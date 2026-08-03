@@ -19,7 +19,7 @@ __pycache__/
 *.ps
 
 # Generated data and weights
-lineage/*/weights.npz
+lineage/*/temp_*.npz
 lineage/*/config.json
 lineage/*/plots/
 *.npy
